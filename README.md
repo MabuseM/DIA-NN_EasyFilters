@@ -28,4 +28,4 @@ DEF is distributed under the MIT License. See the LICENSE file for details.
 
 Citation
 
-If you use DEF, please cite: bioXiv...
+If you use DEF, please cite: [bioXiv...](https://doi.org/10.64898/2026.03.07.710308)
